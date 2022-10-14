@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../src/index.css", "../../src/Panel2.css"],
+  "sourcesContent": [".border {\n  border: 1px solid black;\n}\n", ".bg {\n  background-color: lightcoral;\n}\n"],
+  "mappings": "AAAA,QACE,uBCDF,IACE",
+  "names": []
+}

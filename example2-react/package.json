@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "@types/react-dom": "^18.0.6",
+    "esbuild": "^0.15.10",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "name": "example1-basics",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "serve": "npx lite-server --baseDir=\"public\" ",
+    "build": "esbuild src/App.tsx --bundle --outfile=public/dist/App.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "type": "module"
+}

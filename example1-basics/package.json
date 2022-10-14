@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "esbuild": "^0.15.10"
+  },
+  "name": "example1-basics",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "esbuild index.ts --outfile=index.js\n"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
