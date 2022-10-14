@@ -9,8 +9,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "serve": "npx lite-server --baseDir=\"public\" ",
-    "build": "esbuild src/App.tsx --bundle --outfile=public/dist/App.js"
+    "build": "esbuild src/App.tsx --bundle --outfile=public/dist/App.js",
+    "serve": "npx lite-server --baseDir=\"public\" "
   },
   "keywords": [],
   "author": "",
